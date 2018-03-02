@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="xunit" Version="2.4.0-beta.1.build3958" />
+	<DotNetCliToolReference Include="dotnet-xunit" Version="2.4.0-beta.1.build3958" />
   </ItemGroup>
 
 </Project>
